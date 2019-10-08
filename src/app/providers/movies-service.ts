@@ -9,7 +9,7 @@ import { Movie } from '../models/movie.model';
 @Injectable()
 export class MoviesService {
 
-  private readonly URL_BASE: string = 'https://abi-studio.herokuapp.com/';
+  private readonly URL_BASE: string = 'http://abi-studio.herokuapp.com/';
   // private readonly URL_BASE: string = 'https://reqres.in/api/';
 
   constructor(private http: HttpClient) {

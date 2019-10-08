@@ -1,0 +1,34 @@
+{
+  "movies": [
+    {
+      "title": "VIDEO 1",
+      "year": 1900,
+      "director": null,
+      "cast": null,
+      "genre": null,
+      "notes": "At the opening of this picture, a couple are seen in dim outlines, spooning on a park bench. In comes a policeman, armed with a dark-lantern, which he suddenly flashes on the couple. They cease their love-making, in great confusion, and the policeman walks on, but as soon as he is out of sight, the couple commence billing and cooing again. This picture is particularly interesting because of the photographic effect of the sudden flashing of a dark lantern on the couple. It is very cleverly worked out, and the picture has made a big hit wherever it has been shown.",
+      "poster": "https://in.bmscdn.com/iedb/movies/images/website/poster/large/ela-cheppanu-et00016781-24-03-2017-18-31-40.jpg",
+      "id": "f576523c-fe61-441c-ab8d-4e443a3387d2"
+    },
+    {
+      "title": "VIDEO 2",
+      "year": 1900,
+      "director": null,
+      "cast": null,
+      "genre": null,
+      "notes": null,
+      "poster": "https://in.bmscdn.com/iedb/movies/images/website/poster/large/ela-cheppanu-et00016781-24-03-2017-18-31-40.jpg",
+      "id": "b2ee24f1-591b-e6b9-15bb-e87a7c0a5ef8"
+    },
+    {
+      "title": "VIDEO 3",
+      "year": 1900,
+      "director": null,
+      "cast": null,
+      "genre": null,
+      "notes": null,
+      "poster": "https://in.bmscdn.com/iedb/movies/images/website/poster/large/ela-cheppanu-et00016781-24-03-2017-18-31-40.jpg",
+      "id": "aec233c9-b5e2-d312-62a1-7aa733c73420"
+    }
+  ]
+}

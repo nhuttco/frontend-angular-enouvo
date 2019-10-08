@@ -1,38 +1,6 @@
-# AngularIonicNGXSMovies
-
-Sample project that shows how to build a Movies Catalog APP with Angular, Ionic 4, Capacitor and NGXS (State Management).
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
-
-This project shows you how to:
-
-    * Use Capacitor in Ionic 4.
-    * Use Capacitor Youtube Player (Works on web, android and ios).
-    * Use NGXS for state management in Ionic 4.
-    * Use NGXS plugins:
-        * Devtools: Plugin with integration with the Redux Devtools extension.
-        * Logger: A simple console log plugin to log actions as they are processed.
-        * Forms: Plugin that helps to keep your forms and state in sync.
-    * Show movies list.
-    * Show skeleton when the movies list is being downloaded.
-    * Show movie detail.
-    * CRUD operations:
-        * Add movie.
-        * Update movie.
-        * Delete movie.
-    * Add movies to my favorites list.
-    * Movies view mode in home: list view / card view.
-    * Genre carousel for filtering movies.
-    * Infinite scroll in movies list.
-    * Use YouTube Data API to search movie trailer.
+# ABISTUDIO
 
 Technologies: Angular, Ionic, Capacitor, NGXS, TypeScript.
-
-![Technologies](readme_resources/technologies.jpg "Technologies")
-
-## App Example
-
-![App](readme_resources/app.gif "App")
 
 ## Start fake json server
 

@@ -1,7 +1,7 @@
 {
-  "name": "angular-ionic-ngxs-movies",
+  "name": "abi-studio",
   "version": "0.0.0",
-  "author": "Adrián Brito Pacheco",
+  "author": "abi",
   "description": "This project show how to use NGXS in Ionic 4 and Angular APP.",
   "license": "MIT",
   "scripts": {
